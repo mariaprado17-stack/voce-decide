@@ -1,0 +1,11 @@
+:root{
+--azul: #054a91ff;
+--Azulclaro: #3e7cb1ff;
+--: cinza rgb(127, 135, 145);
+--Branco: #dbe4eeff;
+}
+  
+
+body{ 
+    background-color:aquamarine;
+}
